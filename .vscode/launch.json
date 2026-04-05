@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Spring Boot",
+            "request": "launch",
+            "mainClass": "dev.backend.product_info_parser.ProductInfoParserApplication",
+            "env": {
+                "API_KEY": "AIzaSyCIvRDw6sQB27X3_sLwAZxew6f5cXusXL8"
+            }
+        }
+    ]
+}
